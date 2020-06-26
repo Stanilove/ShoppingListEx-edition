@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.exe
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.deps.json
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.runtimeconfig.json
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.dll
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\bin\Debug\netcoreapp3.1\ProjectEX.pdb
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.dll
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.pdb
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.genruntimeconfig.cache
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.Mainscreen.resources
+C:\Users\admin\source\repos\ProjectEX\ProjectEX\obj\Debug\netcoreapp3.1\ProjectEX.shops.resources
